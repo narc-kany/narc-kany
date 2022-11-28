@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ## Github Stats  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=narc-kany&show_icons=true&locale=en" alt="narc-kany" /></p>
-<h1 align="center"><a href = "">Resume</a></h1>
+<h1 align="center"><a href = ""></a></h1>
 
 <div align="center">
   <img src="https://gpvc.arturio.dev/narc-kany" align="center" />

@@ -17,16 +17,14 @@ Here are some ideas to get you started:
 
 ### I'm Sivanesh S a Machine Learning Developer 👨‍💻 🕵️ 
 
-- 🔭 I’m currently working on radio.rs  
-
-- 🌱 I’m currently learning Rust   
   
-<div align="center">
-  <img src="https://gpvc.arturio.dev/narc-kany" align="center" />
-</div> 
+
 
 ## Github Stats  
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=narc-kany&show_icons=true&locale=en" alt="narc-kany" /></p>
 <h1 align="center"><a href = "">Resume</a></h1>
 
+<div align="center">
+  <img src="https://gpvc.arturio.dev/narc-kany" align="center" />
+</div> 

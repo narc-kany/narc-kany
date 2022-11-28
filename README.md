@@ -105,11 +105,11 @@ Here are some ideas to get you started:
 
 ## Github Stats  
 <div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=0xN0x&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="center" />
+   <img src="https://github-readme-stats.vercel.app/api?username=narc-kany&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="center" />
 </div>  
 
 <br/>  
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=0xN0x&&style=flat-square" align="center" />
+  <img src="https://komarev.com/ghpvc/?username=narc-kany&&style=flat-square" align="center" />
 </div>  

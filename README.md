@@ -104,12 +104,7 @@ Here are some ideas to get you started:
 </div>
 
 ## Github Stats  
-<div align="center">
-   <img src="https://github-readme-stats.vercel.app/api?username=narc-kany&show_icons=true&count_private=true&hide_border=true&theme=github_dark" align="center" />
-</div>  
 
-<br/>  
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=narc-kany&show_icons=true&locale=en" alt="narc-kany" /></p>
+<h1 align="center"><a href = "">Click to view my Resume</a></h1>
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=narc-kany&&style=flat-square" align="center" />
-</div>  

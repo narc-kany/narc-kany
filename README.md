@@ -1,4 +1,4 @@
-![banner2](https://github.com/naarckany/dembasow98/blob/main/images/Sivanesh.png?raw=true)
+![banner1](https://github.com/narc-kany/narc-kany/blob/main/images/Sivanesh.jpg?raw=true)
 
 ### Hi there 👋
 

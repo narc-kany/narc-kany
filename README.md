@@ -48,7 +48,7 @@ Feel free to explore my repositories to find more interesting projects!
 
 ## Get in Touch
 
-- 📧 Email: your.email@example.com
+- 📧 Email: sivanesh.developer69@gmail.com
 - 💼 LinkedIn: [Connect with Me](https://www.linkedin.com/in/your-username)
 - 🌐 Portfolio: [Visit My Website](https://www.your-website.com)
 

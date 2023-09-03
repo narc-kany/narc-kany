@@ -31,7 +31,7 @@ I'm a passionate Machine Learning Developer with a strong background in designin
 
 ## About Me
 
-- 💼 Machine Learning Developer at XYZ Company
+- 💼 Machine Learning Developer at EXL
 - 🌱 Always learning and exploring new ML techniques
 - 🚀 Passionate about AI ethics and responsible AI development
 - 💡 Open to collaboration on ML projects
@@ -49,8 +49,8 @@ Feel free to explore my repositories to find more interesting projects!
 ## Get in Touch
 
 - 📧 Email: sivanesh.developer69@gmail.com
-- 💼 LinkedIn: [Connect with Me](https://www.linkedin.com/in/your-username)
-- 🌐 Portfolio: [Visit My Website](https://www.your-website.com)
+- 💼 LinkedIn: [Connect with Me - Sivanesh](https://www.linkedin.com/in/sivaneshs/)
+- 🌐 Portfolio: [Visit My Website](https://narc-kany.github.io/)
 
 Let's connect and discuss exciting opportunities in the world of Machine Learning!
 

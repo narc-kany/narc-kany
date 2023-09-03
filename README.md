@@ -17,7 +17,41 @@ Here are some ideas to get you started:
 
 ### I'm Sivanesh S a Machine Learning Developer 👨‍💻 🕵️ 
 
-  
+# Welcome to My GitHub Profile 👋
+
+I'm a passionate Machine Learning Developer with a strong background in designing and building intelligent systems. I love solving complex problems using data and machine learning algorithms. Here you'll find my projects, resume, and design templates.
+
+📄 **[Download My Resume](https://example.com/my-resume.pdf)**
+
+🎨 **[Browse My Design Templates](https://example.com/design-templates)**
+
+👁️ **Profile Visitors Count** ![Visitors](https://visitor-badge.glitch.me/badge?page_id=your-username.your-username)
+
+## About Me
+
+- 💼 Machine Learning Developer at XYZ Company
+- 🌱 Always learning and exploring new ML techniques
+- 🚀 Passionate about AI ethics and responsible AI development
+- 💡 Open to collaboration on ML projects
+
+## Featured Projects
+
+Here are some of my notable projects:
+
+- 🤖 [Project 1: Machine Learning Project](https://github.com/your-username/project-1)
+- 📊 [Project 2: Data Visualization](https://github.com/your-username/project-2)
+- 🌐 [Project 3: Web-based AI Application](https://github.com/your-username/project-3)
+
+Feel free to explore my repositories to find more interesting projects!
+
+## Get in Touch
+
+- 📧 Email: your.email@example.com
+- 💼 LinkedIn: [Connect with Me](https://www.linkedin.com/in/your-username)
+- 🌐 Portfolio: [Visit My Website](https://www.your-website.com)
+
+Let's connect and discuss exciting opportunities in the world of Machine Learning!
+
 
 
 ## Github Stats  

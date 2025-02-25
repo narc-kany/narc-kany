@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 I'm a passionate Machine Learning Developer with a strong background in designing and building intelligent systems. I love solving complex problems using data and machine learning algorithms. Here you'll find my projects, resume, and design templates.
 
-📄 **[Download My Resume]([https://example.com/my-resume.pdf](https://drive.google.com/file/d/1ecWpN2Egcukjt1EhLsw8aOPRr1Zqud0K/view?usp=drive_link))**
+📄 **[Download My Resume]([https://example.com/my-resume.pdf](https://drive.google.com/file/d/1ecWpN2Egcukjt1EhLsw8aOPRr1Zqud0K/view?usp=drive_link)**
 
 👁️ **Profile Visitors Count** ![Visitors](https://visitor-badge.glitch.me/badge?page_id=your-username.your-username)
 

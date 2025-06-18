@@ -25,7 +25,7 @@ Here are some ideas to get you started:
 
 📄 **Download Resume** [![Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=github)](https://drive.google.com/file/d/1ecWpN2Egcukjt1EhLsw8aOPRr1Zqud0K/view?usp=drive_link)
 
-👁️ **Profile Visitors Count** ![Visitors](https://visitor-badge.glitch.me/badge?page_id=narc-kany.narc-kany)
+👁️ **Profile Visitors Count** [![Sivanesh S profile views](https://u8views.com/api/v1/github/profiles/86925605/views/day-week-month-total-count.svg)](https://u8views.com/github/narc-kany)
 
 ## About Me
 

@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 I'm a passionate Machine Learning Developer with more than seven years of experience in designing and building cutting-edge AI systems. I love solving complex problems using data and machine learning algorithms, and I'm adept at applying cutting-edge AI/ML techniques to turn complex data into strategic insights. Here you'll find my projects, resume, and design templates.
 
-📄 **Download Resume** [![Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=github)](https://drive.google.com/file/d/1ecWpN2Egcukjt1EhLsw8aOPRr1Zqud0K/view?usp=drive_link)
+📄 **Download Resume** [![Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=github)](https://drive.google.com/file/d/1nQ025RqFIl6bWrmwcVxEs3FUUfNFXHRe/view?usp=drive_link)
 
 👁️ **Profile Visitors Count** [![Sivanesh S profile views](https://u8views.com/api/v1/github/profiles/86925605/views/day-week-month-total-count.svg)](https://u8views.com/github/narc-kany)
 

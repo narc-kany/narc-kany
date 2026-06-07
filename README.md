@@ -21,10 +21,10 @@ I am a passionate AI Architect and Machine Learning Engineer with over seven yea
 
 ## 🔭 Initialize User Profile
 
-**Name**: Sivanesh S
-**Role**: Enterprise AI Architect & Senior GenAI Engineer
-**Experience**: 7+ Years
-**Education**: M.Tech. Artificial Intelligence & Machine Learning (BITS Pilani)
+- **Name**: Sivanesh S
+- **Role**: Enterprise AI Architect & Senior GenAI Engineer
+- **Experience**: 7+ Years
+- **Education**: M.Tech. Artificial Intelligence & Machine Learning (BITS Pilani)
 
 ### Core Domains:
 - Advanced Python Engineering for AI/ML Systems

@@ -1,68 +1,92 @@
-![banner2](https://github.com/narc-kany/narc-kany/blob/main/images/Sivanesh.jpg?raw=true)
+<div align="center">
+  <img width="100%" alt="Sivanesh_Cyberpunk_Banner" src="https://github.com/user-attachments/assets/0dd38c31-042f-4af8-b059-ff5dd5ea94d9" />
+</div>
 
-### Hi there 👋
+<div align="center">
+  
+# ⚡ Welcome to My Terminal
 
-<!--
-**narc-kany/narc-kany** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I'm Sivanesh S — Enterprise AI Architect & Senior Gen-AI Engineer 👨‍💻🕵️
 
-Here are some ideas to get you started:
+I am a passionate AI Architect and Machine Learning Engineer with over seven years of experience designing end-to-end, production-grade AI systems. I specialize in **Generative AI, Large Language Models (LLMs), Agentic Workflows, and Advanced RAG architectures**. I love solving complex architectural problems at scale and turning distributed data into autonomous, strategic insights.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Resume](https://img.shields.io/badge/Download_My-Resume-00f3ff?style=for-the-badge&logo=googledrive&logoColor=black&labelColor=050505)](https://drive.google.com/file/d/1nQ025RqFIl6bWrmwcVxEs3FUUfNFXHRe/view?usp=drive_link)
+<br><br>
+<a href="https://u8views.com/github/narc-kany"><img src="https://u8views.com/api/v1/github/profiles/86925605/views/day-week-month-total-count.svg" alt="Sivanesh S profile views"></a>
 
-# I'm Sivanesh S a Machine Learning Developer 👨‍💻 🕵️ 
+</div>
 
-# Welcome to My GitHub Profile 👋
+---
 
-I'm a passionate Machine Learning Developer with more than seven years of experience in designing and building cutting-edge AI systems. I love solving complex problems using data and machine learning algorithms, and I'm adept at applying cutting-edge AI/ML techniques to turn complex data into strategic insights. Here you'll find my projects, resume, and design templates.
+## 🔭 Initialize User Profile
 
-📄 **Download Resume** [![Resume](https://img.shields.io/badge/Download-Resume-blue?style=for-the-badge&logo=github)](https://drive.google.com/file/d/1nQ025RqFIl6bWrmwcVxEs3FUUfNFXHRe/view?usp=drive_link)
+- 💼 **Senior Machine Learning Engineer** at EXL Service (March 2022 - Present)
+- 🎓 Pursuing an **M.Tech. in Artificial Intelligence and Machine Learning** from BITS Pilani
+- 🌱 Currently deep-diving into **Multi-Agent Systems (LangGraph, CrewAI)** and **Quantum-Enhanced AI**.
+- 🚀 Passionate about building resilient data infrastructures and scalable vector search paradigms.
+- 💡 Open to collaboration on cutting-edge Gen-AI orchestration and LLMOps projects.
+- ⚡ **Fun fact:** When I'm not orchestrating autonomous AI agents, I'm usually researching ancient South Indian dynasties (Pandyas, Cholas, Cheras) or practicing the Dutch language! 🇳🇱
 
-👁️ **Profile Visitors Count** [![Sivanesh S profile views](https://u8views.com/api/v1/github/profiles/86925605/views/day-week-month-total-count.svg)](https://u8views.com/github/narc-kany)
+---
 
-## About Me
+## 💻 Loaded Modules [Core Skills]
 
-- 💼 Data Scientist at EXL Service, Hyderabad, Telangana, India (March 2022 - Present) 
-- 🎓 M.Tech. in Artificial Intelligence and Machine Learning from BITS, Pilani (2023-2025) 
-- 🌱 Always learning and exploring new ML techniques
-- 🚀 Passionate about AI ethics and responsible AI development
-- 💡 Open to collaboration on ML projects
+<div align="center">
+  
+  ![Python](https://img.shields.io/badge/Python-050505?style=for-the-badge&logo=python&logoColor=00f3ff&borderColor=00f3ff)
+  ![Agentic AI](https://img.shields.io/badge/Agentic_AI_&_Multi_Agent_Systems-050505?style=for-the-badge&logo=openai&logoColor=ff003c)
+  ![LangChain](https://img.shields.io/badge/LangChain_|_LangGraph_|_CrewAI-050505?style=for-the-badge&logo=chainlink&logoColor=fcee0a)
+  <br>
+  ![Distributed AI](https://img.shields.io/badge/Distributed_AI_&_LLMOps-050505?style=for-the-badge&logo=databricks&logoColor=00f3ff)
+  ![RAG](https://img.shields.io/badge/Advanced_RAG_&_Vector_Search-050505?style=for-the-badge&logo=weaviate&logoColor=ff003c)
+  ![Cloud](https://img.shields.io/badge/Cloud_Architecture_(Azure/AWS)-050505?style=for-the-badge&logo=microsoftazure&logoColor=fcee0a)
 
-## Work Experience
+</div>
 
-* **Data Scientist** at EXL SERVICE (March 2022 - Present) 
-    * Spearheaded development of Generative Document and Text Generation systems using LLMs on Azure, enhancing enterprise automation through module extraction, categorization, and seamless content creation.
-    * Built robust NLP pipelines leveraging AWS Textract, PyPDF2, and NLTK, reducing manual intervention in document processing by up to 25% in the insurance domain.
-    * Refined Open AI models using Microsoft Copilot Studio and implemented GenAI Proofs of Concept, leading the end-to-end development of LLM and RAG-based systems.
+---
 
-* **Senior Software Developer** at TTEC SERENDEBYTE (Feb 2018 - March 2022) 
-    * Served as a Pega Decisioning Consultant with hands-on experience in Pega 7.2 and 8.0, optimizing customer engagement strategies through AI-driven decision frameworks.
-    * Led, mentored, and managed Pega development and Pega Robotics to deliver high-impact, scalable enterprise solutions.
+## 🏢 Work Experience
 
-## Skills
+### 🔹 **Senior Machine Learning Engineer** | EXL Service *(March 2022 - Present)*
+- Architected and deployed **LangChain-powered autonomous agents** equipped with modular tools and dynamic retrieval strategies to automate complex cognitive workflows.
+- Spearheaded LLM-driven document automation pipelines using OpenAI models on Azure AI Studio.
+- Engineered scalable vector-augmented RAG systems using FAISS and Azure Cognitive Search to maximize response precision and lower inference latency.
 
-* Python 
-* Natural Language Processing 
-* Generative AI 
-* Leadership 
-* Cloud Services (Azure, AWS, GCP) 
-* Prompt Engineering 
-* SQL 
+### 🔹 **Senior Software Developer** | TTEC & Serendebyte *(Feb 2018 - March 2022)*
+- Designed and implemented enterprise-grade automation and AI-driven decision frameworks using Pega (v7.2/8.0) and Automation Anywhere A360.
+- Led, mentored, and managed development teams to deliver scalable, high-impact enterprise solutions across finance and healthcare domains.
 
-## Certifications
+---
 
-* ADaSci Certified: Prompt Engineering for AI Engineers 
-* ADaSci Certified: Generative AI Data Engineer Learning Track 
-* ADaSci Certified: Generative AI Engineer Learning Track 
-* ADaSci Certified: Full Stack GenAI Engineering 
-* Course Certificate - Artificial Intelligence and Deep Learning from IIT Roorkie 
+## 🏆 Certifications
+
+* **ADaSci Certified:** Prompt Engineering for AI Engineers
+* **ADaSci Certified:** Generative AI Data Engineer Learning Track
+* **ADaSci Certified:** Generative AI Engineer Learning Track
+* **ADaSci Certified:** Full Stack GenAI Engineering
+* **Course Certificate:** Artificial Intelligence and Deep Learning (IIT Roorkee)
+
+---
+
+## 🚀 Featured Projects
+
+- 🤖 **[Bogar: Quantum-Enhanced AI](https://huggingface.co/spaces/narckany/bhogar-api/tree/main)** - A conversational interface for drug discovery and personalized medicine combining QEML and LLMs.
+- 📊 **[Multi-Agent Marketing Campaign System](https://github.com/narc-kany/Multi-Agent-Marketing-Workflow-using-Google-ADK-Gemini-and-MCP-Tools)** - Orchestrated workflow using Google ADK, Gemini, and MCP Tools.
+- 🌐 **[Phishing Detection Model](https://github.com/narc-kany/Building-a-Phishing-Detection-Model)** - Advanced classification architecture for web security.
+
+---
+
+## 📡 Establish Connection
+
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-narc--kany.github.io-050505?style=for-the-badge&logo=googlechrome&logoColor=00f3ff)](https://narc-kany.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-050505?style=for-the-badge&logo=linkedin&logoColor=00f3ff)](https://www.linkedin.com/in/sivaneshs/)
+[![Medium](https://img.shields.io/badge/Medium-Latent_Space-050505?style=for-the-badge&logo=medium&logoColor=00f3ff)](https://medium.com/latent-space)
+[![Instagram](https://img.shields.io/badge/Instagram-@quantum__tachyon-050505?style=for-the-badge&logo=instagram&logoColor=ff003c)](https://www.instagram.com/quantum_tachyon/)
+[![Email](https://img.shields.io/badge/Email-sivanesh.developer69@gmail.com-050505?style=for-the-badge&logo=gmail&logoColor=fcee0a)](mailto:sivanesh.developer69@gmail.com)
+
+</div>
 
 ## Featured Projects
 

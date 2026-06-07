@@ -4,7 +4,7 @@
 
 <div align="center">
   
-# ⚡ Welcome to My Terminal
+# Hi, there. Welcome to My Terminal!
 
 ### I'm Sivanesh S — Enterprise AI Architect & Senior Gen-AI Engineer 👨‍💻🕵️
 
@@ -87,21 +87,3 @@ I am a passionate AI Architect and Machine Learning Engineer with over seven yea
 [![Email](https://img.shields.io/badge/Email-sivanesh.developer69@gmail.com-050505?style=for-the-badge&logo=gmail&logoColor=fcee0a)](mailto:sivanesh.developer69@gmail.com)
 
 </div>
-
-## Featured Projects
-
-Here are some of my notable projects:
-
-- 🤖 [Project 1: Bogar: Quantum-Enhanced AI with Conversational Interface for Drug Discovery and Personalized Medicine](https://huggingface.co/spaces/narckany/bhogar-api/tree/main)
-- 📊 [Project 2: Multi-Agent Marketing Campaign System](https://github.com/narc-kany/Multi-Agent-Marketing-Workflow-using-Google-ADK-Gemini-and-MCP-Tools)
-- 🌐 [Project 3: Phishing Detection Model](https://github.com/narc-kany/Building-a-Phishing-Detection-Model)
-
-Feel free to explore my repositories to find more interesting projects!
-
-## Get in Touch
-
-- 📧 Email: sivanesh.developer69@gmail.com 
-- 💼 LinkedIn: [Connect with Me - Sivanesh](https://www.linkedin.com/in/sivaneshs/) 
-- 🌐 Portfolio: [Visit My Website](https://narc-kany.github.io/) 
-
-Let's connect and discuss exciting opportunities in the world of Machine Learning!

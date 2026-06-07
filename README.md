@@ -4,14 +4,15 @@
 
 <div align="center">
   
-# Hi, there. Welcome to My Terminal!
+# 🧠 AI ARCHITECTURE CORE ONLINE
 
-### I'm Sivanesh S — Enterprise AI Architect & Senior Gen-AI Engineer 👨‍💻🕵️
+### I'm Sivanesh S - Enterprise AI Architect & Agentic AI Engineer 👨‍💻
 
 I am a passionate AI Architect and Machine Learning Engineer with over seven years of experience designing end-to-end, production-grade AI systems. I specialize in **Generative AI, Large Language Models (LLMs), Agentic Workflows, and Advanced RAG architectures**. I love solving complex architectural problems at scale and turning distributed data into autonomous, strategic insights.
 
-[![Resume](https://img.shields.io/badge/Download_My-Resume-00f3ff?style=for-the-badge&logo=googledrive&logoColor=black&labelColor=050505)](https://drive.google.com/file/d/1nQ025RqFIl6bWrmwcVxEs3FUUfNFXHRe/view?usp=drive_link)
+[![Resume](https://img.shields.io/badge/Download_My-Resume-00f3ff?style=for-the-badge&logo=googledrive&logoColor=black&labelColor=050505)]([https://drive.google.com/file/d/1nQ025RqFIl6bWrmwcVxEs3FUUfNFXHRe/view?usp=drive_link](https://github.com/narc-kany/narc-kany.github.io/blob/main/assets/Sivanesh%20-%20AIML%20Engineer.pdf))
 <br><br>
+
 <a href="https://u8views.com/github/narc-kany"><img src="https://u8views.com/api/v1/github/profiles/86925605/views/day-week-month-total-count.svg" alt="Sivanesh S profile views"></a>
 
 </div>
@@ -20,12 +21,34 @@ I am a passionate AI Architect and Machine Learning Engineer with over seven yea
 
 ## 🔭 Initialize User Profile
 
-- 💼 **Senior Machine Learning Engineer** at EXL Service (March 2022 - Present)
-- 🎓 Pursuing an **M.Tech. in Artificial Intelligence and Machine Learning** from BITS Pilani
-- 🌱 Currently deep-diving into **Multi-Agent Systems (LangGraph, CrewAI)** and **Quantum-Enhanced AI**.
-- 🚀 Passionate about building resilient data infrastructures and scalable vector search paradigms.
-- 💡 Open to collaboration on cutting-edge Gen-AI orchestration and LLMOps projects.
-- ⚡ **Fun fact:** When I'm not orchestrating autonomous AI agents, I'm usually researching ancient South Indian dynasties (Pandyas, Cholas, Cheras) or practicing the Dutch language! 🇳🇱
+**Name**: Sivanesh S
+**Role**: Enterprise AI Architect & Senior GenAI Engineer
+**Experience**: 7+ Years
+**Education**: M.Tech. Artificial Intelligence & Machine Learning (BITS Pilani)
+
+### Core Domains:
+- Advanced Python Engineering for AI/ML Systems
+- Agentic AI, Autonomous Agents & Multi-Agent Orchestration Frameworks
+- LangChain Ecosystem (LCEL, Agents, Tools, Memory, Retrieval Pipelines)
+- LangGraph for Stateful Agent Workflows & Graph-Based Execution Engines
+- CrewAI for Collaborative Multi-Agent Task Planning & Execution
+- Advanced RAG Architectures (GraphRAG, Agentic RAG, Hybrid RAG, Adaptive Retrieval)
+- Vector Search Infrastructure (FAISS, Milvus, Pinecone, Weaviate, Chroma)
+- Semantic Retrieval, Embedding Optimization & Knowledge Retrieval Systems
+- Distributed AI Systems & Scalable Inference Architectures
+- Enterprise LLMOps, Model Lifecycle Management & AI Platform Engineering
+- Knowledge Graph Integration & Context-Aware Reasoning Systems - AI Workflow Orchestration, Observability, Evaluation & Governance
+
+### Current Focus:
+- Production-Scale Multi-Agent Systems with Dynamic Planning & Tool Usage
+- Autonomous Reasoning, Reflection & Decision-Making Architectures
+- GraphRAG, Knowledge Graph Intelligence & Retrieval-Augmented Reasoning
+- Distributed LLM Serving, Inference Optimization & AI Infrastructure
+- Enterprise-Grade Agent Orchestration & Human-in-the-Loop Systems
+- Scalable AI Platform Engineering, Monitoring & Continuous Evaluation
+
+### Mission:
+Architecting enterprise-scale intelligent systems that integrate advanced retrieval mechanisms, autonomous agent orchestration, knowledge-driven reasoning, distributed AI infrastructure, and robust LLMOps frameworks to deliver reliable, scalable, and production-ready artificial intelligence.
 
 ---
 
@@ -70,9 +93,105 @@ I am a passionate AI Architect and Machine Learning Engineer with over seven yea
 
 ## 🚀 Featured Projects
 
-- 🤖 **[Bogar: Quantum-Enhanced AI](https://huggingface.co/spaces/narckany/bhogar-api/tree/main)** - A conversational interface for drug discovery and personalized medicine combining QEML and LLMs.
-- 📊 **[Multi-Agent Marketing Campaign System](https://github.com/narc-kany/Multi-Agent-Marketing-Workflow-using-Google-ADK-Gemini-and-MCP-Tools)** - Orchestrated workflow using Google ADK, Gemini, and MCP Tools.
-- 🌐 **[Phishing Detection Model](https://github.com/narc-kany/Building-a-Phishing-Detection-Model)** - Advanced classification architecture for web security.
+### ⚖️ Dharma — GraphRAG Legal Intelligence Platform
+
+**Tech Stack:** GraphRAG • Knowledge Graphs • Neo4j • LangGraph • Vector Databases • LLMs
+
+An advanced Legal AI platform engineered to navigate complex Indian legal frameworks through GraphRAG-powered reasoning. Dharma combines semantic retrieval, knowledge graph construction, legal entity linking, and multi-hop relationship discovery to generate explainable, context-aware legal intelligence while minimizing hallucinations.
+
+**Highlights**
+
+* GraphRAG-powered legal reasoning engine
+* Knowledge graph generation from legal corpora
+* Context-aware case law retrieval
+* Explainable AI for legal decision support
+
+🔗 Repository: https://github.com/narc-kany/dharma
+
+---
+
+### ⚛️ Bogar — Quantum-Enhanced AI for Drug Discovery
+
+**Tech Stack:** Quantum Machine Learning • Transformers • Molecular AI • LLMs • Scientific Agents
+
+A next-generation conversational AI platform focused on computational drug discovery and personalized medicine. Bogar integrates quantum-enhanced machine learning with large language models to accelerate molecular understanding, therapeutic exploration, and biomedical research workflows.
+
+**Highlights**
+
+* Hybrid quantum-classical learning architectures
+* Molecular intelligence and drug discovery workflows
+* Scientific reasoning through LLM-powered agents
+* Personalized medicine research framework
+
+🔗 Project: https://huggingface.co/spaces/narckany/bhogar-api/tree/main
+
+---
+
+### 🌱 PAS-FDR — Pluriformic Architecture for Sustainable Financial Data Reuse
+
+**Tech Stack:** Multi-Agent Systems • Sustainability Intelligence • Compliance AI • LLM Agents
+
+An AI-driven sustainability intelligence platform designed to evaluate, classify, and optimize financial data reuse initiatives. PAS-FDR combines autonomous agents, activity-based costing, compliance validation, sustainability scoring, and funding intelligence to guide strategic investment decisions.
+
+**Highlights**
+
+* AI-powered sustainability assessment
+* Compliance and governance validation
+* Automated funding recommendation engine
+* Intelligent data reuse evaluation framework
+
+🔗 Repository: https://github.com/narc-kany/Pluriformic-Architecture-for-Sustainable-Financial-Data-Reuse-PAS-FDR-
+
+---
+
+### 🎨 Matryoshka Diffusion Models (MDM)
+
+**Tech Stack:** Diffusion Models • Computer Vision • Generative AI • PyTorch
+
+A research-oriented implementation of Matryoshka Diffusion Models, exploring nested multi-resolution image synthesis within a unified architecture. MDM enables efficient generation, editing, and refinement across image scales without requiring separate cascaded diffusion networks.
+
+**Highlights**
+
+* Unified multi-scale diffusion architecture
+* Shared feature representations across resolutions
+* High-resolution image synthesis
+* Efficient generative modeling research
+
+🔗 Repository: https://github.com/narc-kany/Matryoshka-Diffusion-Models
+
+---
+
+### 🤖 Multi-Agent Marketing Campaign System
+
+**Tech Stack:** Google ADK • Gemini • MCP • Multi-Agent Systems
+
+An autonomous marketing orchestration platform that leverages specialized AI agents to automate campaign planning, content generation, audience targeting, and strategic decision-making.
+
+**Highlights**
+
+* Multi-agent workflow orchestration
+* MCP tool integration
+* Automated campaign planning
+* Agent collaboration and task delegation
+
+🔗 Repository: https://github.com/narc-kany/Multi-Agent-Marketing-Workflow-using-Google-ADK-Gemini-and-MCP-Tools
+
+---
+
+### 🛡️ AI-Powered Phishing Detection System
+
+**Tech Stack:** Machine Learning • Feature Engineering • Cybersecurity Analytics
+
+A cybersecurity-focused machine learning system engineered to identify and classify phishing websites through advanced feature extraction, predictive modeling, and threat intelligence techniques.
+
+**Highlights**
+
+* Advanced phishing classification models
+* Feature engineering pipeline
+* Cyber threat detection
+* Security-focused machine learning
+
+🔗 Repository: https://github.com/narc-kany/Building-a-Phishing-Detection-Model
 
 ---
 

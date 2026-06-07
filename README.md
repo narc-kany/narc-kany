@@ -81,13 +81,59 @@ Architecting enterprise-scale intelligent systems that integrate advanced retrie
 
 ---
 
-## 🏆 Certifications
+## 🏆 Certifications & Professional Credentials
 
-* **ADaSci Certified:** Prompt Engineering for AI Engineers
-* **ADaSci Certified:** Generative AI Data Engineer Learning Track
-* **ADaSci Certified:** Generative AI Engineer Learning Track
+### 🤖 Artificial Intelligence & Generative AI
+
+* **Microsoft Certified:** AI Product Manager
+* **Google Advanced Data Analytics Professional Certificate**
 * **ADaSci Certified:** Full Stack GenAI Engineering
-* **Course Certificate:** Artificial Intelligence and Deep Learning (IIT Roorkee)
+* **ADaSci Certified:** Generative AI Engineer
+* **ADaSci Certified:** Prompt Engineering for AI Engineers
+* **ADaSci Certified:** Generative AI Data Engineering Learning Track
+* **Course Certificate:** Artificial Intelligence and Deep Learning — IIT Roorkee
+
+---
+
+### ☁️ Cloud & Enterprise Architecture
+
+* **AWS Cloud Solutions Architect**
+
+---
+
+### ⚙️ Intelligent Automation & Enterprise Systems
+
+* **PEGA Certified Senior System Architect (PCSSA)**
+* **PEGA Certified Robotics System Architect (PCRSA)**
+
+---
+
+### 📊 Areas Validated Through Certifications
+
+**Artificial Intelligence**:
+  - Machine Learning
+  - Deep Learning
+  - Generative AI
+  - Prompt Engineering
+  - Agentic AI Concepts
+  - AI Product Strategy
+
+**Cloud & Architecture**:
+  - AWS Architecture
+  - Cloud-Native Design
+  - Distributed Systems
+  - Enterprise Integration
+
+**Analytics**:
+  - Statistical Analysis
+  - Predictive Modeling
+  - Data Engineering
+  - Business Intelligence
+
+**Enterprise Automation**:
+  - PEGA Architecture
+  - Workflow Engineering
+  - Intelligent Automation
 
 ---
 
